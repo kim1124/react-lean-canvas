@@ -1,0 +1,247 @@
+{
+  "canvases": [
+    {
+      "id": 1,
+      "date": "2023-06-10",
+      "title": "AI 기반 건강 관리 앱",
+      "category": "헬스케어"
+    },
+    {
+      "title": "0ebd28f5-9a9c-4e1f-b486-3ad2d36ab4b5",
+      "category": "신규",
+      "date": "2026-02-11 07:40:39",
+      "id": 2
+    },
+    {
+      "id": 5,
+      "title": "혁신적인 스마트홈 솔루션!!",
+      "date": "2023-08-22",
+      "category": "신규",
+      "problem": {
+        "notes": [
+          {
+            "id": "6e6f9c2c-13c2-47b0-b708-5c8fd171e817",
+            "content": "안녕하세요\n",
+            "color": "bg-pink-300"
+          },
+          {
+            "id": "260635cf-8659-41e9-9431-08f63b0cf72d",
+            "content": "",
+            "color": ""
+          },
+          {
+            "id": "cc4104ab-1f8c-41a2-b442-8cb9fed8acf7",
+            "content": "",
+            "color": ""
+          }
+        ]
+      },
+      "customerSegments": {
+        "notes": [
+          {
+            "id": "cs1",
+            "content": "30-50대 중산층 가정",
+            "color": "bg-blue-300"
+          },
+          {
+            "id": "cs2",
+            "content": "기술에 관심 있는 밀레니얼 세대",
+            "color": "bg-yellow-300"
+          },
+          {
+            "id": "cs3",
+            "content": "에너지 절약에 관심 있는 환경 의식적 소비자",
+            "color": "bg-pink-300"
+          }
+        ]
+      },
+      "valueProposition": {
+        "notes": [
+          {
+            "id": "vp1",
+            "content": "직관적이고 사용하기 쉬운 인터페이스",
+            "color": "bg-pink-300"
+          },
+          {
+            "id": "vp2",
+            "content": "저렴한 초기 비용과 월 구독 모델",
+            "color": "bg-yellow-300"
+          },
+          {
+            "id": "vp3",
+            "content": "모든 주요 스마트홈 기기와 호환",
+            "color": "bg-blue-300"
+          }
+        ]
+      },
+      "solution": {
+        "notes": [
+          {
+            "id": "s1",
+            "content": "AI 기반 자동화 시스템",
+            "color": "bg-blue-300"
+          },
+          {
+            "id": "s3",
+            "content": "모듈식 설계로 쉬운 확장성",
+            "color": "bg-pink-300"
+          }
+        ]
+      },
+      "unfairAdvantage": {
+        "notes": [
+          {
+            "id": "ua1",
+            "content": "특허받은 AI 알고리즘",
+            "color": "bg-pink-300"
+          },
+          {
+            "id": "ua2",
+            "content": "주요 스마트홈 기기 제조업체와의 독점 파트너십",
+            "color": "bg-yellow-300"
+          }
+        ]
+      },
+      "channels": {
+        "notes": [
+          {
+            "id": "ch1",
+            "content": "온라인 직접 판매",
+            "color": "bg-yellow-300"
+          },
+          {
+            "id": "ch2",
+            "content": "전문 설치 업체 네트워크",
+            "color": "bg-blue-300"
+          },
+          {
+            "id": "ch3",
+            "content": "대형 전자제품 소매점",
+            "color": "bg-pink-300"
+          }
+        ]
+      },
+      "keyMetrics": {
+        "notes": [
+          {
+            "id": "km1",
+            "content": "월간 활성 사용자 수",
+            "color": "bg-blue-300"
+          },
+          {
+            "id": "km2",
+            "content": "고객 유지율",
+            "color": "bg-yellow-300"
+          },
+          {
+            "id": "km3",
+            "content": "평균 에너지 절감률",
+            "color": "bg-pink-300"
+          }
+        ]
+      },
+      "costStructure": {
+        "notes": [
+          {
+            "id": "cs1",
+            "content": "하드웨어 개발 및 생산 비용",
+            "color": "bg-pink-300"
+          },
+          {
+            "id": "cs2",
+            "content": "소프트웨어 개발 및 유지보수",
+            "color": "bg-blue-300"
+          },
+          {
+            "id": "cs3",
+            "content": "마케팅 및 고객 지원",
+            "color": "bg-yellow-300"
+          }
+        ]
+      },
+      "revenueStreams": {
+        "notes": [
+          {
+            "id": "rs1",
+            "content": "하드웨어 판매",
+            "color": "bg-yellow-300"
+          },
+          {
+            "id": "rs2",
+            "content": "월간 구독료",
+            "color": "bg-pink-300"
+          },
+          {
+            "id": "rs3",
+            "content": "프리미엄 기능 업그레이드",
+            "color": "bg-blue-300"
+          }
+        ]
+      },
+      "existingAlternatives": {
+        "notes": [
+          {
+            "id": "ea1",
+            "content": "기존 홈 오토메이션 시스템",
+            "color": "bg-yellow-300"
+          },
+          {
+            "id": "ea2",
+            "content": "개별 스마트 기기 사용",
+            "color": "bg-pink-300"
+          }
+        ]
+      },
+      "highLevelConcept": {
+        "notes": [
+          {
+            "id": "hlc1",
+            "content": "모든 가정을 위한 AI 기반 스마트홈",
+            "color": "bg-blue-300"
+          }
+        ]
+      },
+      "earlyAdopters": {
+        "notes": [
+          {
+            "id": "ea1",
+            "content": "테크 얼리어답터",
+            "color": "bg-blue-300"
+          },
+          {
+            "id": "ea2",
+            "content": "에너지 절약 열성 지지자",
+            "color": "bg-pink-300"
+          }
+        ]
+      }
+    },
+    {
+      "title": "8286a81a-516f-4e31-b5d6-eded440e4603",
+      "category": "신규",
+      "date": "2026-02-14 17:57:38",
+      "id": 6
+    },
+    {
+      "title": "4e4fad29-4058-42f4-9123-2fe0812b775f",
+      "category": "신규",
+      "date": "2026-02-14 17:58:53",
+      "id": 7
+    },
+    {
+      "title": "38170653-78eb-4259-ab14-75f389d515d9",
+      "category": "신규",
+      "date": "2026-02-14 18:07:09",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "title": "변경 필요",
+      "category": "신규",
+      "date": "2026-02-20 00:18:43",
+      "id": 12
+    }
+  ]
+}
