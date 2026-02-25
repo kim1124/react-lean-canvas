@@ -7,7 +7,7 @@ import Button from '../components/Button'
 import Loading from '../components/Loading'
 import SearchBar from '../components/SearchBar'
 import CanvasList from '../components/CanvasList'
-import ViewToggle from '../components/viewToggle'
+import ViewToggle from '../components/ViewToggle'
 import CategoryFilter from '../components/CategoryFilter'
 
 function Home() {
